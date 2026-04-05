@@ -1,9 +1,9 @@
 # Contributing
 
-Kami menerima semua kontribusi:
-- Laporan bug
-- Perbaikan bug
-- Peningkatan dokumentasi
-- Ide baru
+We welcome all kinds of contributions:
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Suggestions and ideas
 
-Silakan buat pull request.
+Please submit a pull request.
