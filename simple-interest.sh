@@ -1,14 +1,14 @@
 #!/bin/bash
 
-echo "Masukkan pokok:"
+echo "Enter principal amount:"
 read p
 
-echo "Masukkan suku bunga:"
+echo "Enter interest rate:"
 read r
 
-echo "Masukkan waktu:"
+echo "Enter time:"
 read t
 
 interest=$((p * r * t / 100))
 
-echo "Bunga sederhana: $interest"
+echo "Simple Interest: $interest"
