@@ -1,23 +1,24 @@
 # Code of Conduct
 
-## Janji Kami
-Kami berkomitmen menciptakan lingkungan yang ramah.
+## Our Pledge
+We are committed to creating a welcoming and inclusive environment.
 
-## Standar Kami
-- Bersikap sopan
-- Tidak diskriminatif
+## Our Standards
+- Be respectful
+- No harassment
+- No discrimination
 
-## Tanggung Jawab Penegakan
-Tim bertanggung jawab menegakkan aturan.
+## Enforcement Responsibilities
+Maintainers are responsible for enforcing the code.
 
-## Ruang Lingkup
-Berlaku di semua interaksi proyek.
+## Scope
+This Code applies to all project spaces.
 
-## Penegakan
-Pelanggaran akan ditindak.
+## Enforcement
+Violations may result in actions.
 
-## Pedoman Penegakan
-Dilakukan secara adil.
+## Enforcement Guidelines
+Handled fairly and consistently.
 
-## Atribusi
-Diadaptasi dari Contributor Covenant.
+## Attribution
+Adapted from Contributor Covenant.
